@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\@362\\@362\\New folder\\S-400-RAT-v3.0.csproj": {}
+  },
+  "projects": {
+    "E:\\@362\\@362\\New folder\\S-400-RAT-v3.0.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\@362\\@362\\New folder\\S-400-RAT-v3.0.csproj",
+        "projectName": "S - 400 RAT v3.0",
+        "projectPath": "E:\\@362\\@362\\New folder\\S-400-RAT-v3.0.csproj",
+        "packagesPath": "C:\\Users\\smikey\\.nuget\\packages\\",
+        "outputPath": "E:\\@362\\@362\\New folder\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\smikey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Guna.UI2.WinForms": {
+              "target": "Package",
+              "version": "[2.0.4.4, )"
+            },
+            "H.Recorders.WinmmRecorder": {
+              "target": "Package",
+              "version": "[0.20.8, )"
+            },
+            "PInvoke.Kernel32": {
+              "target": "Package",
+              "version": "[0.7.124, )"
+            },
+            "PInvoke.User32": {
+              "target": "Package",
+              "version": "[0.7.124, )"
+            },
+            "PInvoke.UxTheme": {
+              "target": "Package",
+              "version": "[0.7.124, )"
+            },
+            "xpInterop.msvcrt": {
+              "target": "Package",
+              "version": "[0.5.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

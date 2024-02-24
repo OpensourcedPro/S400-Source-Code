@@ -1,0 +1,55 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>S - 400 RAT v3.0</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>net472</TargetFramework>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="ET5Q58buC6CWEvDUW6.Ivtqb4scanYBGEx1Ry" />
+    <EmbeddedResource Include="ET5Q58buC6CWEvDUW6.Ivtqb4scanYBGEx1Ry" LogicalName="ET5Q58buC6CWEvDUW6.Ivtqb4scanYBGEx1Ry" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Guna.UI2.WinForms" Version="2.0.4.4" />
+    <PackageReference Include="H.Recorders.WinmmRecorder" Version="0.20.8" />
+    <PackageReference Include="PInvoke.Kernel32" Version="0.7.124" />
+    <PackageReference Include="PInvoke.User32" Version="0.7.124" />
+    <PackageReference Include="PInvoke.UxTheme" Version="0.7.124" />
+    <PackageReference Include="xpInterop.msvcrt" Version="0.5.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="SQLABC_ModernUI">
+      <HintPath>..\SQLABC_ModernUI.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing">
+      <HintPath>..\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="API">
+      <HintPath>..\API.dll</HintPath>
+    </Reference>
+    <Reference Include="WinMM.Net">
+      <HintPath>..\WinMM.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tulpep.NotificationWindow">
+      <HintPath>..\Tulpep.NotificationWindow.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="Mono.Cecil">
+      <HintPath>..\Mono.Cecil.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="S400RAT\Act.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\AntiProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\Antss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\Anx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\Cam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\Chat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\Cli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\congrok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\controll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\Ddos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\Def.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\DW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\FromLink.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\Fun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\FURL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\GClass8.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="S400RAT\GClass9.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="S400RAT\HBR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\HRR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\kl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\L.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\L1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="S400RAT\License.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\loc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\Mic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\MSG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\NGR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\Note.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\notf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\Pass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\Pass_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\PictureBox99.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\Pp1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="S400RAT\RDP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\RGv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\sc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\script.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\SO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\TCP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\tory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\uac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\Uns.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\up.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\VB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\VDP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\vnc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="S400RAT\XMR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
